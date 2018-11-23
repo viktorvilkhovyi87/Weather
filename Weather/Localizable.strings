@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by Viktor Vilkhovyi on 11/23/18.
+  Copyright © 2018 Viktor Vilkhovyi. All rights reserved.
+*/
+
+"offlineModel" = "Offline Mode: This weather was actual at ";
